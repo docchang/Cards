@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ranks</key>
+	<array>
+		<string>Ace</string>
+		<string>Two</string>
+		<string>Three</string>
+		<string>Four</string>
+		<string>Five</string>
+		<string>Six</string>
+		<string>Seven</string>
+		<string>Eight</string>
+		<string>Nine</string>
+		<string>Ten</string>
+		<string>Jack</string>
+		<string>Queen</string>
+		<string>King</string>
+	</array>
+	<key>Face</key>
+	<array>
+		<string>a</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>7</string>
+		<string>8</string>
+		<string>9</string>
+		<string>10</string>
+		<string>j</string>
+		<string>q</string>
+		<string>k</string>
+	</array>
+	<key>Suits</key>
+	<array>
+		<string>Spades</string>
+		<string>Hearts</string>
+		<string>Clubs</string>
+		<string>Diamonds</string>
+	</array>
+</dict>
+</plist>
